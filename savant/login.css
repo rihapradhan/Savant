@@ -1,0 +1,13 @@
+#form{
+    height:400px;
+    width:100%;
+    float:left;
+    
+    text-align: center;
+    padding-top: 200px;
+    background-image: url('login.jpg');
+    background-size: cover;
+}
+#innerform{
+    
+}
